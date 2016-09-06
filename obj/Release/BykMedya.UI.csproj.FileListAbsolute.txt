@@ -1,0 +1,6 @@
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll.config
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\bin\BykMedya.UI.pdb
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\obj\Release\BykMedya.UI.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\obj\Release\BykMedya.UI.dll
+D:\Yeni klasör\PROJELER\BykMedya\BykMedya.UI\obj\Release\BykMedya.UI.pdb

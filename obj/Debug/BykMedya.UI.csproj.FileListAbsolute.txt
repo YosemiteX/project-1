@@ -1,0 +1,12 @@
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll.config
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\bin\BykMedya.UI.pdb
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.csprojResolveAssemblyReference.cache
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.dll
+c:\users\wr\documents\visual studio 2013\Projects\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.pdb
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll.config
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\bin\BykMedya.UI.dll
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\bin\BykMedya.UI.pdb
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.dll
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.pdb
+C:\Users\WR\Desktop\BykMedya\BykMedya.UI\obj\Debug\BykMedya.UI.csprojResolveAssemblyReference.cache
